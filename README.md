@@ -58,13 +58,33 @@ time before it expires: 2 hours or one day
 Conclusion
 -----------
 1 - Based on these observations, what do you hypothesize about drivers who accepted the bar coupons?
+
+
 2 - rivers who are over 25 years old have much more acceptance rate than drivers who are working driver goes to bar more than once a month.
+
+
 3 - more than 25 years age group's going rate to bar is more than who goes to more than once and over age 25.
+
+
 4 - Acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry is 100%
+
+
 5 - go to bars more than once a month, had passengers that were not a kid, and were not widowed OR, go to bars more than once a month and are under the age of 30 OR, go to cheap restaurants more than 4 times a month and income is less than 50K , All the 3 conditions have same acceptance rate.
+
+
 6 - So no significance in acceptance rate between drivers going to bar more than or less than once a month having kids as passanger at the time of receiving (accepting) the coupon.
+
+
 7 - Drivers who drive alone seems gets more coupon and also accepts more coupon compraed to driver with friends, with kids and with partners
+
+
 8 - Wondows uses least coupons
+
+
 9 - Single and mariied both accepts more coupons
+
+
 10- Students and unemployed accepts more coupons compared other groups.
+
+
 11- Cheaper resturant, carryout & take away coupons and Coffee house coupon's acceptance rate is better compared to var and expensive coupon
